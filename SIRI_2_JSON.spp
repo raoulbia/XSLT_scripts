@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+	<Folder FolderName="XML Files" ExtStr="xml;cml;math;rdf;smil;svg;wml"/>
+	<Folder FolderName="XSL Files" ExtStr="xsl;xslt"/>
+	<Folder FolderName="XQuery Files" ExtStr="xq;xql;xquery;xqu"/>
+	<Folder FolderName="HTML Files" ExtStr="html;htm;xhtml;asp"/>
+	<Folder FolderName="DTD/Schemas" ExtStr="dtd;dcd;xdr;biz;xsd"/>
+	<Folder FolderName="Entities" ExtStr="ent"/>
+	<ExtMountFolder FolderName="C:\Users\Raoul.Biagioni\WORK\data\SIRI ET files\Dublin Bus ET Files\2021\20210715\14"/>
+	<ExtMountFolder FolderName="C:\Users\Raoul.Biagioni\WORK\data\SIRI ET files\Dublin Bus ET Files\2021\20210715\13"/>
+	<ExtMountFolder FolderName="C:\Users\Raoul.Biagioni\WORK\data\Jira Tickets\DQWG-249 NPTG NptgLocality assigned to incorrect AdministrativeArea"/>
+</Project>
